@@ -1,6 +1,6 @@
 cask "vinny" do
-  version "0.2.4"
-  sha256 "c01ac8feb74e88c726dce5dd044efb5d60e89b95a6f5c16fdab0ba0d6f4d6478"
+  version "0.2.5"
+  sha256 "5bb7a340c9beef615816740a1cc6ab4b75e2ab0fa1acc36f9a2e5fc9cb04e2ce"
 
   url "https://github.com/sarimabbas/vinny/releases/download/v#{version}/vinny-#{version}-macos-arm64.zip"
   name "Vinny"
