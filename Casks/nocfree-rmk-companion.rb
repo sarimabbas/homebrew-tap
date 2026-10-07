@@ -1,6 +1,6 @@
 cask "nocfree-rmk-companion" do
-  version "1.0.2"
-  sha256 "d72f58a26d987cbbebef04646efa9086899b92ce24101ff2ead4be88616f6d66"
+  version "1.0.3"
+  sha256 "81876e0f2b5d5bbeabfb7228b78435e14dce80dab454dad73735fa92863bcc37"
 
   url "https://github.com/sarimabbas/nocfree-and-rmk/releases/download/v#{version}/nocfree-rmk-companion-#{version}-macos-arm64.zip"
   name "NocFree RMK Companion"
